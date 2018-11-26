@@ -1,0 +1,8 @@
+====================================================== install required packages in console
+conda install nltk
+conda install textblob
+conda install requests
+conda install pandas
+
+====================================================== update python
+conda update python

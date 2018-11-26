@@ -1,0 +1,1 @@
+conda install plotly=2.7.0 pymongo=3.4.0 requests=2.18.4 pandas=0.22.0 textblob=0.15.1 nltk=3.2.4
